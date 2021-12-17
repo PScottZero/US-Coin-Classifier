@@ -1,7 +1,7 @@
 from os import listdir, mkdir, path
 from PIL import Image
 
-d = listdir('obv_biased_images/')
+d = listdir('images/obv_biased_images/')
 if '.DS_Store' in d:
     d.remove('.DS_Store')
 d.sort()

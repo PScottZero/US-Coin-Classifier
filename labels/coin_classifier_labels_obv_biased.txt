@@ -25,10 +25,7 @@ indian_princess_three_dollar
 indian_ten_dollar
 jefferson_nickel
 kennedy_half_dollar
-liberty_cap_cent
-liberty_cap_half_cent_1793
-liberty_cap_half_cent_large_head
-liberty_cap_half_cent_small_head
+liberty_cap
 liberty_gold
 liberty_nickel
 liberty_twenty_dollar
