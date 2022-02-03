@@ -1,0 +1,262 @@
+[
+  {
+    "search_string": "1793 chain cent",
+    "destination_folder": "chain+wreath"
+  },
+  {
+    "search_string": "1793 wreath cent",
+    "destination_folder": "chain+wreath"
+  },
+  {
+    "search_string": "barber dime",
+    "destination_folder": "barber"
+  },
+  {
+    "search_string": "barber quarter",
+    "destination_folder": "barber"
+  },
+  {
+    "search_string": "barber half dollar",
+    "destination_folder": "barber"
+  },
+  {
+    "search_string": "braided large cent",
+    "destination_folder": "braided"
+  },
+  {
+    "search_string": "braided half cent",
+    "destination_folder": "braided"
+  },
+  {
+    "search_string": "buffalo nickel",
+    "destination_folder": "buffalo_nickel"
+  },
+  {
+    "search_string": "capped bust half dime",
+    "destination_folder": "capped_silver"
+  },
+  {
+    "search_string": "capped bust dime",
+    "destination_folder": "capped_silver"
+  },
+  {
+    "search_string": "capped bust quarter",
+    "destination_folder": "capped_silver"
+  },
+  {
+    "search_string": "capped bust half dollar",
+    "destination_folder": "capped_silver"
+  },
+  {
+    "search_string": "classic large cent",
+    "destination_folder": "classic_cent+half_cent"
+  },
+  {
+    "search_string": "classic half cent",
+    "destination_folder": "classic_cent+half_cent"
+  },
+  {
+    "search_string": "classic quarter eagle",
+    "destination_folder": "classic_gold"
+  },
+  {
+    "search_string": "classic half eagle",
+    "destination_folder": "classic_gold"
+  },
+  {
+    "search_string": "coronet large cent",
+    "destination_folder": "coronet_cent"
+  },
+  {
+    "search_string": "draped bust half cent",
+    "destination_folder": "draped_bust_cent+half_cent"
+  },
+  {
+    "search_string": "draped bust large cent",
+    "destination_folder": "draped_bust_cent+half_cent"
+  },
+  {
+    "search_string": "draped bust half dime",
+    "destination_folder": "draped_bust_silver"
+  },
+  {
+    "search_string": "draped bust dime",
+    "destination_folder": "draped_bust_silver"
+  },
+  {
+    "search_string": "draped bust quarter",
+    "destination_folder": "draped_bust_silver"
+  },
+  {
+    "search_string": "draped bust half dollar",
+    "destination_folder": "draped_bust_silver"
+  },
+  {
+    "search_string": "draped bust dollar",
+    "destination_folder": "draped_bust_silver"
+  },
+  {
+    "search_string": "draped bust gold",
+    "destination_folder": "draped_gold"
+  },
+  {
+    "search_string": "eisenhower dollar",
+    "destination_folder": "eisenhower_dollar"
+  },
+  {
+    "search_string": "flowing hair silver",
+    "destination_folder": "flowing"
+  },
+  {
+    "search_string": "flying cent",
+    "destination_folder": "flying_cent"
+  },
+  {
+    "search_string": "franklin half dollar",
+    "destination_folder": "franklin_half_dollar"
+  },
+  {
+    "search_string": "gold dollar type 2",
+    "destination_folder": "gold_dollar_type_2+3+three_dollar"
+  },
+  {
+    "search_string": "gold dollar type 3",
+    "destination_folder": "gold_dollar_type_2+3+three_dollar"
+  },
+  {
+    "search_string": "$3 indian princess",
+    "destination_folder": "gold_dollar_type_2+3+three_dollar"
+  },
+  {
+    "search_string": "indian cent",
+    "destination_folder": "indian_cent"
+  },
+  {
+    "search_string": "indian head quarter eagle",
+    "destination_folder": "indian_gold"
+  },
+  {
+    "search_string": "indian head half eagle",
+    "destination_folder": "indian_gold"
+  },
+  {
+    "search_string": "indian head $10",
+    "destination_folder": "indian_ten_dollar"
+  },
+  {
+    "search_string": "jefferson nickel",
+    "destination_folder": "jefferson_nickel"
+  },
+  {
+    "search_string": "kennedy half dollar",
+    "destination_folder": "kennedy_half_dollar"
+  },
+  {
+    "search_string": "liberty cap half cent",
+    "destination_folder": "liberty_cap"
+  },
+  {
+    "search_string": "liberty cap large cent",
+    "destination_folder": "liberty_cap"
+  },
+  {
+    "search_string": "liberty nickel",
+    "destination_folder": "liberty_nickel"
+  },
+  {
+    "search_string": "liberty gold",
+    "destination_folder": "liberty_gold"
+  },
+  {
+    "search_string": "liberty double eagle",
+    "destination_folder": "liberty_twenty_dollar"
+  },
+  {
+    "search_string": "lincoln 1c",
+    "destination_folder": "lincoln_cent"
+  },
+  {
+    "search_string": "mercury dime",
+    "destination_folder": "mercury_dime"
+  },
+  {
+    "search_string": "morgan dollar",
+    "destination_folder": "morgan_dollar"
+  },
+  {
+    "search_string": "peace dollar",
+    "destination_folder": "peace_dollar"
+  },
+  {
+    "search_string": "roosevelt dime",
+    "destination_folder": "roosevelt_dime"
+  },
+  {
+    "search_string": "sacagawea dollar",
+    "destination_folder": "sacagawea_dollar"
+  },
+  {
+    "search_string": "saint gaudens double eagle",
+    "destination_folder": "saint_gaudens_twenty_dollar"
+  },
+  {
+    "search_string": "seated half dime",
+    "destination_folder": "seated"
+  },
+  {
+    "search_string": "seated dime",
+    "destination_folder": "seated"
+  },
+  {
+    "search_string": "seated twenty cent",
+    "destination_folder": "seated"
+  },
+  {
+    "search_string": "seated quarter",
+    "destination_folder": "seated"
+  },
+  {
+    "search_string": "seated half dollar",
+    "destination_folder": "seated"
+  },
+  {
+    "search_string": "seated dollar",
+    "destination_folder": "seated"
+  },
+  {
+    "search_string": "shield nickel",
+    "destination_folder": "shield_nickel"
+  },
+  {
+    "search_string": "standing quarter",
+    "destination_folder": "standing_liberty_quarter"
+  },
+  {
+    "search_string": "susan b anthony dollar",
+    "destination_folder": "susan_b_anthony_dollar"
+  },
+  {
+    "search_string": "three cent nickel",
+    "destination_folder": "three_cent_nickel"
+  },
+  {
+    "search_string": "three cent silver",
+    "destination_folder": "three_cent_silver"
+  },
+  {
+    "search_string": "trade dollar",
+    "destination_folder": "trade_dollar"
+  },
+  {
+    "search_string": "two cent piece",
+    "destination_folder": "two_cent"
+  },
+  {
+    "search_string": "walking half",
+    "destination_folder": "walking_liberty_half_dollar"
+  },
+  {
+    "search_string": "washington quarter",
+    "destination_folder": "washington_quarter"
+  }
+]
