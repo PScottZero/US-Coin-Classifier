@@ -1,2 +1,3 @@
-checkpoint/*
-saved_models/coin_classifier/*
+checkpoint/
+saved_models/coin_classifier/
+ebay_images/
